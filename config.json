@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdync",
+        "uuid": 454104,
+        "checksum": "hvpi2lu"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
